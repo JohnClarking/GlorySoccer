@@ -1,7 +1,6 @@
 # Glory Soccer
-Glory Soccer is a 2D, pong-like soccer game built in Unreal Engine 4.
 
-![logo 2](https://cloud.githubusercontent.com/assets/10332234/12224371/1.jpg)
+Glory Soccer is a 2D, pong-like soccer game built in Unreal Engine 4.
 
 ## Download
 
